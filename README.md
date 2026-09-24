@@ -288,12 +288,3 @@ Potential extensions to this project include:
 - XGBoost
 - Jupyter Notebook / Google Colab
 
-## Repository Structure
-
-```text
-demand-forecasting-xgboost/
-│
-├── Demand_Forecasting_GitHub_Portfolio.ipynb
-├── demand_forecasting.csv
-├── README.md
-└── requirements.txt
