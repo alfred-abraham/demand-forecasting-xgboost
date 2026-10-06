@@ -649,7 +649,7 @@ Launch Jupyter Notebook:
 
 Then open:
 
-`Demand_Forecasting_GitHub_Portfolio.ipynb`
+`Demand_Forecasting.ipynb`
 
 Before running the notebook, download `demand_forecasting.csv` from the [original dataset repository](https://github.com/Onurbltc/DemandForecastingDataset).
 
